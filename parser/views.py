@@ -10,7 +10,7 @@ def index(request):
 from django.http import HttpResponse
 from django.template import loader
 
-from .models import Question
+#from .models import Question
 
 
 def index(request):
